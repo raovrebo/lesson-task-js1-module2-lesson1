@@ -35,6 +35,7 @@ function logMessage() {
 
 setTimeout(logMessage, numberOfSeconds * 1000);
 
+
 // Question 4
 console.log("Question 4");
 
@@ -54,4 +55,3 @@ function logNumber() {
 }
 
 const intervalId = setInterval(logNumber, interval);
-
